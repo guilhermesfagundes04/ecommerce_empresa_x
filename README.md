@@ -22,3 +22,7 @@ __Melhoria 1__, _melhoria 2_
 2. Integração
 3. Sistema
 
+
+### Imagem local
+
+![Logo do python](OIP.jpg)
