@@ -32,3 +32,12 @@ __Melhoria 1__, _melhoria 2_
 https://github.com/guilhermesfagundes04
 
 [Link do google](https://Google.com/)
+
+### Código da função soma
+
+```javascript
+
+function soma(a, b) {
+    return a + b;
+}
+```
